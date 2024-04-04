@@ -15,6 +15,16 @@
             font-weight: 500;
             font-style: normal;
           }
+
+          <!-- adapt to both dark & light themes -->
+          @media (prefers-color-scheme: light) {
+            .container {
+              --color-main: #F15BB5;
+              --color-primary: #24b0ef;
+              --color-secondary: #4526f6;
+              --color-tertiary: #f6f645;
+            }
+          }
           
           <!-- keyframes for the animation -->
           @keyframes anim {
@@ -29,7 +39,7 @@
               animation: none;
             }
           }
-  
+          
           .anim {
             animation: 3.0s linear 0s infinite alternate anim;
             display: inline-block;
