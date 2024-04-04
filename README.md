@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my Github personal page 👋
 
 <!--
 **nbenatti/nbenatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Also have a look at my "Academic" repository which contains my university projects ![here](https://github.com/nicolasbenatti)
