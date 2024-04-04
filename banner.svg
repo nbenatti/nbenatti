@@ -18,12 +18,12 @@
 
           .title {
             font-size: 1em;
-            width: 40%;
+            width: 35%;
           }
           
           .content {
-            font-size: 0.7em;
-            width: 60%;
+            font-size: 0.75em;
+            width: 65%;
           }
           
           <!-- adapt to both dark & light themes -->
