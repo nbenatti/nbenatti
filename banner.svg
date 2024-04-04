@@ -16,6 +16,16 @@
             font-style: normal;
           }
 
+          .title {
+            font-size: 1em;
+            width: 40%;
+          }
+          
+          .content {
+            font-size: 0.7em;
+            width: 60%;
+          }
+          
           <!-- adapt to both dark & light themes -->
           @media (prefers-color-scheme: light) {
             .container {
@@ -30,8 +40,8 @@
           @keyframes anim {
             0% {transform: rotate(0.0deg);}
             25% {transform: rotate(720.0deg);}
-            75% {transform: translateX(625px);}
-            100% {transform: translateX(625px) rotate(720.0deg);}
+            75% {transform: translateX(745px);}
+            100% {transform: translateX(745px) rotate(720.0deg);}
           }
   
           @media {prefers-reduced-motion} {
@@ -46,10 +56,20 @@
           }
         </style>
       </head>
-      
-      <div class="container">
-        <h1>Welcome to my personal Github page <br/><div class="anim">🐧</div></h1>
-      </div>
+      <body lang="en">
+        <div class="container">
+          <div class="title">
+            <h1>Welcome to my personal Github page <br/><div class="anim">🐧</div></h1>
+          </div>
+          <div class="content">
+            This repository mostly deals with my old school and side projects, 
+            stuff I've been involved with since my high school days, for fun (or for school nedds) :) 
+            Please note that the list is not complete, back then I didn't use 
+            to push *everything* I was doing on github, so I'm still trying to collect my old code 
+            and archive it here. 
+          </div>
+        </div>
+      </body>
     </div>
   </foreignObject>
 </svg>
