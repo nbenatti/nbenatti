@@ -22,8 +22,9 @@
           }
           
           .content {
-            font-size: 0.75em;
+            font-size: 0.85em;
             width: 70%;
+            padding-right: 10px;
           }
           
           <!-- adapt to both dark & light themes -->
@@ -58,13 +59,13 @@
       </head>
       <div class="container">
         <div class="title">
-          <h1>Welcome to my personal Github page <br/><div class="anim">🐧</div></h1>
+          <h1>Welcome to my personal Github page<br/><div class="anim">🐧</div></h1>
         </div>
         <div class="content">
-          This repository mostly deals with my old school and side projects, 
-          stuff I've been involved with since my high school days, for fun (or for school nedds) :) 
+          This repository mostly deals with my side projects, 
+          stuff I've been involved with since my high-school days, for fun! <br/>
           Please note that the list is not complete, back then I didn't use 
-          to push *everything* I was doing on github, so I'm still trying to collect my old code 
+          to push <i>everything</i> I was doing on github, so I'm still trying to collect my old code 
           and archive it here. 
         </div>
       </div>
