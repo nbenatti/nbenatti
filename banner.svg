@@ -40,12 +40,12 @@
           @keyframes anim {
             0% {transform: rotate(0.0deg);}
             25% {transform: rotate(720.0deg);}
-            75% {transform: translateX(745px);}
-            100% {transform: translateX(745px) rotate(720.0deg);}
+            75% {transform: translateX(750px);}
+            100% {transform: translateX(750px) rotate(720.0deg);}
           }
   
           @media {prefers-reduced-motion} {
-            anim {
+            .anim {
               animation: none;
             }
           }
