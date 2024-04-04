@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Also have a look at my "Academic" repository which contains my university projects ![here](https://github.com/nicolasbenatti)
+Also have a look at my ["Academic" repository](https://github.com/nicolasbenatti) which contains my university projects
