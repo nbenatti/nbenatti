@@ -1,4 +1,4 @@
-### Welcome to my Github personal page 👋
+### Welcome to my Github personal page 🐧
 
 <!--
 **nbenatti/nbenatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
