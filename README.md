@@ -3,4 +3,4 @@
   <img src="banner.svg" style="width: 100%;" alt="Welcome to my Github personal page (+ animated penguin)">
 </div>
 
-Also have a look at my ["Academic" repository](https://github.com/nicolasbenatti) which contains my university projects and has a richer Bio 😉
+Also have a look at my [Academic repository](https://github.com/nicolasbenatti) which contains my university projects and has a richer Bio 😉
